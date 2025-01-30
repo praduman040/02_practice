@@ -17,3 +17,5 @@ else if(score=30 && score <= 49){
 else if(score=0 && score <= 29){
     grade="F";
 }
+console.log("This is my final grade of amrks=", grade);
+
