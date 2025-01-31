@@ -1,4 +1,4 @@
 let Name="pradumankumar";
 console.log(Name.toUpperCase());
 
-//console.log("Praduman\nKumar");
+console.log("Praduman\nKumar");
